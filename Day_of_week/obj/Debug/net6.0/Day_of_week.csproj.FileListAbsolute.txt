@@ -1,0 +1,15 @@
+C:\GeekBrains\SeminarC#\Day_of_week\bin\Debug\net6.0\Day_of_week.exe
+C:\GeekBrains\SeminarC#\Day_of_week\bin\Debug\net6.0\Day_of_week.deps.json
+C:\GeekBrains\SeminarC#\Day_of_week\bin\Debug\net6.0\Day_of_week.runtimeconfig.json
+C:\GeekBrains\SeminarC#\Day_of_week\bin\Debug\net6.0\Day_of_week.dll
+C:\GeekBrains\SeminarC#\Day_of_week\bin\Debug\net6.0\Day_of_week.pdb
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.csproj.AssemblyReference.cache
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.AssemblyInfoInputs.cache
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.AssemblyInfo.cs
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.dll
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\refint\Day_of_week.dll
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.pdb
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\Day_of_week.genruntimeconfig.cache
+C:\GeekBrains\SeminarC#\Day_of_week\obj\Debug\net6.0\ref\Day_of_week.dll
